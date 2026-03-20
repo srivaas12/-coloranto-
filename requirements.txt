@@ -5,3 +5,4 @@ matplotlib
 argparse
 Pillow
 streamlit
+streamlit-image-comparison
